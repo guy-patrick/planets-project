@@ -1,0 +1,23 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guy-patrick/planets-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guy-patrick/planets-project/issues"
+  },
+  "homepage": "https://github.com/guy-patrick/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
